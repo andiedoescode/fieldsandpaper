@@ -7,4 +7,4 @@ A coming soon pre-launch landing page for local business.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** HTML, CSS, and JavaScript
