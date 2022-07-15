@@ -1,7 +1,7 @@
 # Fields and Paper
 A coming soon pre-launch landing page for local business.
 
-**Link to project:** [(https://fieldsandpaper.netlify.app/](https://fieldsandpaper.netlify.app/)
+**Link to project:** [https://fieldsandpaper.netlify.app/](https://fieldsandpaper.netlify.app/)
 
 ![Screenshot](/repository/images/fp-preview.png?raw=true)
 
